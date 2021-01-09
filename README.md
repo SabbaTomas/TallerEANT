@@ -1,4 +1,4 @@
-Mi primer proyrcto con Git
+#Mi primer proyrcto con Git
 A partir de aca voy a crear mi primera APP
 ## En caso de incendio
 1. git commit
